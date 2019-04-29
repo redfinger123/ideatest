@@ -12,5 +12,6 @@ public class testGit {
             System.out.println(i);
         }
 
+        System.out.println("克隆语句");
     }
 }
